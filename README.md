@@ -1,2 +1,2 @@
-# html-resume-template
-A very beginner friendly HTML project, designing a simple resume template.
+# Live Site
+https://477-bizmaestro.github.io/html-resume-template/
